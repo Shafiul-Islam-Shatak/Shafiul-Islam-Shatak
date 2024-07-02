@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,Myself Shafiul islam</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-![Banner](https://github.com/yourusername/yourrepository/blob/main/banner.png)
+![Banner](https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Shafiul-Islam_banner.svg)
 
 
 
