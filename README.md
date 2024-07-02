@@ -2,24 +2,24 @@
 
 ![Banner](https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Shafiul%20islam%20banner.gif)
 
-## About Me
+## About Me 😁
 Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in building dynamic and responsive web applications using <strong>MongoDB, Express, React, and Node.js.</strong> With a strong foundation in <i><b>front-end and back-end development</b></i>, I thrive on solving complex problems and creating seamless user experiences. Let's connect and build something amazing together!
 
 
-## Simple Overview
+## Simple Overview 😉
 - 🌱 I’m currently learning Next.js
 - 🤔 I’m looking for a Job
 - 📫 How to reach me: helloshatak@gmail.com
 - ⚡ Fun fact: I love codes but not errors.
 
 
-## Connect with me
+## Connect with me 👀👀
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shafiul-islam-333536296)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skshatak/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shafiulislamshatak.sk)
 
-## My Stats
+## My Stats 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
@@ -46,7 +46,7 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
   <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/nextjs.png" alt="Next.js" />
 </div>
 
-## Trophys
+## Trophys 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shafiul-Islam-Shatak&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
