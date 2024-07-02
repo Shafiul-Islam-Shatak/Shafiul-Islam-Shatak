@@ -4,9 +4,13 @@
 
 ## About Me
 Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in building dynamic and responsive web applications using <strong>MongoDB, Express, React, and Node.js.</strong> With a strong foundation in <i><b>front-end and back-end development</b></i>, I thrive on solving complex problems and creating seamless user experiences. Let's connect and build something amazing together!
-<br></br>
 
-<strong><i>You Can Reach me:</i></strong> helloshatak@gmail.com
+
+## Simple Overview
+- 🌱 I’m currently learning Next.js
+- 🤔 I’m looking for a Job
+- 📫 How to reach me: helloshatak@gmail.com
+- ⚡ Fun fact: I love codes but not errors.
 
 
 ## Connect with me
