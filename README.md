@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Myself Shafiul islam</h1>
 
-![Banner](https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Shafiul-Islam_banner.svg)
+![Banner](https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Shafiul%20islam%20banner.gif)
 
 
 
