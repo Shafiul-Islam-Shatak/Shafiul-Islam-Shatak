@@ -10,7 +10,11 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skshatak/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shafiulislamshatak.sk)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical)
+## My Stats
+<div align="center" >
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical)
+</div>
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shafiul-Islam-Shatak&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shafiul-Islam-Shatak&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
