@@ -28,7 +28,13 @@
 ## Skills
 
 <div align="center">
-  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/HTML5.png" alt="HTML5" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/HTML5.png" 
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/css3.png"alt="CSS3" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/nodejs.png"alt="Node.js" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/firebase.png"alt="Firenbase" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/react.png"alt="React" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/mongodb.png"alt="MongoDB" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/nextjs.png"alt="Next.js" />
 </div>
 
 ## Trophys
