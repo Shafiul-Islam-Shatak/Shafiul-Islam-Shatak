@@ -10,6 +10,9 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/skshatak/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shafiulislamshatak.sk)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical)
+
+
 <!--
 **Shafiul-Islam-Shatak/Shafiul-Islam-Shatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
