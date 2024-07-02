@@ -15,8 +15,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shafiul-Islam-Shatak&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical)
+## My Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shafiul-Islam-Shatak&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## Used Language
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical" alt="Used Language" />
+</div>
+
+
+
+## Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shafiul-Islam-Shatak&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
