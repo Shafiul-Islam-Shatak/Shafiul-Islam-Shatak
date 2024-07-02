@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical" alt="Used Language" />
 </div>
 
-## Skills
+## Skills That I Know
 
 <div align="center">
   <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/HTML5.png" 
