@@ -11,8 +11,8 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shafiulislamshatak.sk)
 
 ## My Stats
-<div align="center" >
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shafiul-Islam-Shatak&theme=radical&hide_border=true)
