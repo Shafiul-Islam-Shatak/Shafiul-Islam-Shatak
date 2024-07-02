@@ -3,7 +3,10 @@
 ![Banner](https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Shafiul%20islam%20banner.gif)
 
 ## About Me
-Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in building dynamic and responsive web applications using <strong>MongoDB, Express, React, and Node.js.</strong> With a strong foundation in <i>front-end and back-end development</i>, I thrive on solving complex problems and creating seamless user experiences. Let's connect and build something amazing together!
+Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in building dynamic and responsive web applications using <strong>MongoDB, Express, React, and Node.js.</strong> With a strong foundation in <i><b>front-end and back-end development</b></i>, I thrive on solving complex problems and creating seamless user experiences. Let's connect and build something amazing together!
+<br></br>
+<br></br>
+<br></br>
 <strong><i>You Can Reach me:</i></strong> helloshatak@gmail.com
 
 
