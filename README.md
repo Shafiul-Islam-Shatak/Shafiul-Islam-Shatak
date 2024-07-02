@@ -28,7 +28,7 @@
 ## Skills
 
 <div align="center">
-  <img width="50" height="80" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/HTML5.png" alt="HTML5" />
+  <img width="50" height="65" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/edb6edace57237f1ec3b9c841de8504de4d7e311/Skill%20icons/HTML5.png" alt="HTML5" />
 </div>
 
 ## Trophys
