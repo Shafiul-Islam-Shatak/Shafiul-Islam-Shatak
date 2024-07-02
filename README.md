@@ -12,6 +12,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shafiul-Islam-Shatak&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
