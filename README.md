@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋,Myself Shafiul islam</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
+![Banner](https://github.com/yourusername/yourrepository/blob/main/banner.png)
+
+
 
 ## Connect with me
 
