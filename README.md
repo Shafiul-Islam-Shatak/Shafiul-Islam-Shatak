@@ -7,7 +7,7 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
 
 
 ## Simple Overview 😉
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Next.js & TypeScript
 - 🤔 I’m looking for a Job
 - 📫 How to reach me: helloshatak@gmail.com
 - ⚡ Fun fact: I love codes but not errors.
