@@ -43,7 +43,6 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
   <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/firebase.png" alt="Firenbase" />
   <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/react.png" alt="React" />
   <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/mongodb.png" alt="MongoDB" />
-  <img width="120" height="120" src="https://github.com/Shafiul-Islam-Shatak/Shafiul-Islam-Shatak/blob/main/Skill%20icons/nextjs.png" alt="Next.js" />
 </div>
 
 ## Trophys 
