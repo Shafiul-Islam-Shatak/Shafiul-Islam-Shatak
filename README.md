@@ -30,7 +30,9 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
 </div>
 
 ## Used Language
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical" alt="Used Language" />
+</div>
 
 ## Skills That I Know
 
