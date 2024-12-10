@@ -20,7 +20,9 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shafiulislamshatak.sk)
 
 ## My Stats 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shafiul-Islam-Shatak&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 ## My Streak
 <div align="center">
@@ -28,9 +30,7 @@ Hi, I'm Shafiul Islam, a passionate MERN Stack Developer. I specialize in buildi
 </div>
 
 ## Used Language
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafiul-Islam-Shatak&layout=compact&theme=radical" alt="Used Language" />
-</div>
+
 
 ## Skills That I Know
 
